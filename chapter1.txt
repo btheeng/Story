@@ -3,3 +3,6 @@ Line One
 Password: abcdef
 
 xxx
+
+Another password: xyz
+test 2
